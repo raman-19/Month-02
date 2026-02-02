@@ -1,21 +1,5 @@
 # Social Media Dashboard
 
-This project was bootstrapped with **[Create React App](https://github.com/facebook/create-react-app)**.
-
-It is a social media dashboard built with **React.js** featuring user profiles, posts, notifications, and a responsive design for all devices.
-
----
-
-## Getting Started
-
-These instructions will help you set up and run the project on your local machine.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) installed
-- npm (comes with Node.js)
-- Git (for cloning the repository)
-
 ### Installation
 
 1. Clone the repository:
